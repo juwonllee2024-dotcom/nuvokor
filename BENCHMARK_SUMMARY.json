@@ -1,0 +1,13 @@
+{
+  "product": "Nuvokor",
+  "tagline": "Too big to run. Too small to work. Until we fixed it.",
+  "storefront_url": "https://nuvokor.pages.dev",
+  "benchmark_hardware": "Intel Core i7-1360P (12C/16T, 32GB RAM, Intel Iris Xe, No Dedicated GPU)",
+  "package_size_gb": 1.13,
+  "same_20_before_pass": "0/20 (0.0%)",
+  "same_20_after_pass": "17/20 (85.0%)",
+  "full_humaneval_164_pass": "104/164 (63.41%)",
+  "sample_task_wall_clock_before": "180s+ timeout (2.57 tok/s)",
+  "sample_task_wall_clock_after": "27.6s (4.56 tok/s)",
+  "offer_mode": "72h Free Beta ($0, Reg. $199, No Card Required)"
+}
